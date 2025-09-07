@@ -1,0 +1,7 @@
+[2025-09-01 09:28:17] --- New Upload Attempt ---
+[2025-09-01 09:28:17] db_connect.php included successfully.
+[2025-09-01 09:28:17] Session check passed for user_id: 7
+[2025-09-01 09:28:17] Received upload for user ID 7: 'sea '
+[2025-09-01 09:28:17] File validation passed.
+[2025-09-01 09:28:17] Files saved to server. Video: C:\xampp\htdocs\TalentUp\php_api/../uploads/video_68b54b11686c91.98766992.mp4, Thumbnail: C:\xampp\htdocs\TalentUp\php_api/../uploads/thumbnails/thumb_68b54b11686d16.45512506.jpg
+[2025-09-01 09:28:17] Database insert successful for video ID: 2

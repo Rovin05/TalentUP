@@ -1,0 +1,385 @@
+
+--- New Login Attempt ---
+2025-08-31 22:44:50 - Received data: {"redirect_url":"","identifier":"dinitharovin05@gmail.com","password":"Rovin@12345"}
+2025-08-31 22:44:50 - Session regenerated. Old ID: 3813rartrork9mbeq4obu0h7cn, New ID: ltrk51f1t14maams558bk7741k
+2025-08-31 22:44:50 - Session save path: C:\xampp\tmp
+2025-08-31 22:44:50 - Session data set: {"user_id":2,"username":"Rovin","role":"user","logged_in":true,"viewed_videos":[1]}
+2025-08-31 22:44:50 - Session write closed.
+2025-08-31 22:44:51 - Login success for user: Rovin. Sending success response.
+2025-08-31 22:44:53 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 22:44:53 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 22:44:53 - [SESSION_CHECK] Session ID: ltrk51f1t14maams558bk7741k
+2025-08-31 22:44:53 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true,"viewed_videos":[1]}
+2025-08-31 22:44:53 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+
+--- New Login Attempt ---
+2025-08-31 22:49:20 - Received data: {"redirect_url":"","identifier":"dinitharovin05@gmail.com","password":"Rovin@12345"}
+2025-08-31 22:49:20 - Session regenerated. Old ID: ltrk51f1t14maams558bk7741k, New ID: hdh3e1rd870r0p3d6qhtrge6rn
+2025-08-31 22:49:20 - Session save path: C:\xampp\tmp
+2025-08-31 22:49:20 - Session data set: {"user_id":2,"username":"Rovin","role":"user","logged_in":true,"viewed_videos":[1]}
+2025-08-31 22:49:20 - Session write closed.
+2025-08-31 22:49:22 - Login success for user: Rovin. Sending success response.
+2025-08-31 22:49:23 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 22:49:23 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 22:49:23 - [SESSION_CHECK] Session ID: hdh3e1rd870r0p3d6qhtrge6rn
+2025-08-31 22:49:23 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true,"viewed_videos":[1]}
+2025-08-31 22:49:23 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 22:49:24 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 22:49:24 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 22:49:24 - [SESSION_CHECK] Session ID: hdh3e1rd870r0p3d6qhtrge6rn
+2025-08-31 22:49:24 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true,"viewed_videos":[1]}
+2025-08-31 22:49:24 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 22:49:26 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 22:49:26 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 22:49:26 - [SESSION_CHECK] Session ID: hdh3e1rd870r0p3d6qhtrge6rn
+2025-08-31 22:49:26 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true,"viewed_videos":[1]}
+2025-08-31 22:49:26 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+
+--- New Login Attempt ---
+2025-08-31 22:54:46 - Received data: {"redirect_url":"<?php echo $redirect_url; ?>","identifier":"dinitharovin05@gmail.com","password":"Rovin@12345"}
+2025-08-31 22:54:46 - Session regenerated. Old ID: hdh3e1rd870r0p3d6qhtrge6rn, New ID: p9atf4tf7ridasgmct9jkuqtp3
+2025-08-31 22:54:46 - Session save path: C:\xampp\tmp
+2025-08-31 22:54:46 - Session data set: {"user_id":2,"username":"Rovin","role":"user","logged_in":true,"viewed_videos":[1]}
+2025-08-31 22:54:46 - Session write closed.
+2025-08-31 22:54:47 - Login success for user: Rovin. Sending success response.
+
+--- New Login Attempt ---
+2025-08-31 22:55:39 - Received data: {"redirect_url":"<?php echo $redirect_url; ?>","identifier":"dinitharovin05@gmail.com","password":"Rovin@12345"}
+2025-08-31 22:55:39 - Session regenerated. Old ID: p9atf4tf7ridasgmct9jkuqtp3, New ID: ui7ud6mkdh3gchk11jfvukabpt
+2025-08-31 22:55:39 - Session save path: C:\xampp\tmp
+2025-08-31 22:55:39 - Session data set: {"user_id":2,"username":"Rovin","role":"user","logged_in":true,"viewed_videos":[1]}
+2025-08-31 22:55:39 - Session write closed.
+2025-08-31 22:55:40 - Login success for user: Rovin. Sending success response.
+2025-08-31 23:02:51 - Login success for user: Rovin
+2025-08-31 23:02:52 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:02:52 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:02:52 - [SESSION_CHECK] Session ID: 2k7fhqj5t0e12lidtv5gctvt8k
+2025-08-31 23:02:52 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true,"viewed_videos":[1]}
+2025-08-31 23:02:52 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:03:19 - Login success for user: Rovin
+2025-08-31 23:03:20 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:03:20 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:03:20 - [SESSION_CHECK] Session ID: orrfj0lkcmdflki3lvitgq11j6
+2025-08-31 23:03:20 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:03:20 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:06:17 - Login success for user: Rovin
+2025-08-31 23:06:18 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:06:18 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:06:18 - [SESSION_CHECK] Session ID: 20a78ha5v20klp0fillu7davn5
+2025-08-31 23:06:18 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:06:18 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:08:09 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:08:09 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:08:09 - [SESSION_CHECK] Session ID: 20a78ha5v20klp0fillu7davn5
+2025-08-31 23:08:09 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:08:09 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:08:51 - Login success for user: Rovin
+2025-08-31 23:08:52 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:08:52 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:08:52 - [SESSION_CHECK] Session ID: 4jsq884uv7r04fl6834boqoc7i
+2025-08-31 23:08:52 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:08:52 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:12:18 - Login success for user: Rovin
+2025-08-31 23:12:19 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:12:19 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:12:19 - [SESSION_CHECK] Session ID: f8pq25cb40bftnmnjteikcnmrk
+2025-08-31 23:12:19 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:12:19 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:13:12 - Login success for user: Rovin
+2025-08-31 23:13:13 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:13:13 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:13:13 - [SESSION_CHECK] Session ID: 1pi5ehldak542v6dccvjk4gnh6
+2025-08-31 23:13:13 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:13:13 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:13:18 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:13:18 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:13:18 - [SESSION_CHECK] Session ID: 1pi5ehldak542v6dccvjk4gnh6
+2025-08-31 23:13:18 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:13:18 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:13:21 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:13:21 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:13:21 - [SESSION_CHECK] Session ID: 1pi5ehldak542v6dccvjk4gnh6
+2025-08-31 23:13:21 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:13:21 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:14:13 - Login success for user: Rovin
+2025-08-31 23:14:14 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:14:14 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:14:14 - [SESSION_CHECK] Session ID: snvhbp5op7iffas8fl5asruh9a
+2025-08-31 23:14:14 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:14:14 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:19:47 - Login success for user: Rovin
+2025-08-31 23:19:48 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:19:48 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:19:48 - [SESSION_CHECK] Session ID: nl87koa0pnberpq47b80n03l33
+2025-08-31 23:19:48 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:19:48 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:24:15 - Login success for user: Rovin
+2025-08-31 23:24:28 - Login success for user: Rovin
+2025-08-31 23:27:34 - Login success for user: Judge
+2025-08-31 23:31:05 - Login success for user: Judge
+2025-08-31 23:32:07 - Login success for user: Judge
+2025-08-31 23:34:18 - Login success for user: Judge
+2025-08-31 23:36:02 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:36:02 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:36:02 - [SESSION_CHECK] Session ID: 1ri4kuajp66v3dl53bfuvc27kp
+2025-08-31 23:36:02 - [SESSION_CHECK] Session Data: {"user_id":3,"username":"Judge","role":"judge","logged_in":true}
+2025-08-31 23:36:02 - [SESSION_CHECK] Authentication check PASSED for user: Judge
+2025-08-31 23:36:10 - Login success for user: Rovin
+2025-08-31 23:36:14 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:36:14 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:36:14 - [SESSION_CHECK] Session ID: a65jst16oq8m3n6uuqmiliqjb6
+2025-08-31 23:36:14 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:36:14 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:37:03 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:37:03 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:37:03 - [SESSION_CHECK] Session ID: a65jst16oq8m3n6uuqmiliqjb6
+2025-08-31 23:37:03 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:37:03 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:37:10 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:37:10 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:37:10 - [SESSION_CHECK] Session ID: a65jst16oq8m3n6uuqmiliqjb6
+2025-08-31 23:37:10 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:37:10 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:37:23 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:37:23 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:37:23 - [SESSION_CHECK] Session ID: a65jst16oq8m3n6uuqmiliqjb6
+2025-08-31 23:37:23 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:37:23 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:38:58 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:38:58 - [SESSION_CHECK] Page: profile.php
+2025-08-31 23:38:58 - [SESSION_CHECK] Session ID: a65jst16oq8m3n6uuqmiliqjb6
+2025-08-31 23:38:58 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:38:58 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:39:02 - Login success for user: Rovin
+2025-08-31 23:39:05 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:39:05 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:39:05 - [SESSION_CHECK] Session ID: ihe2q3cuoq424n774670ga8k8h
+2025-08-31 23:39:05 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:39:05 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:39:07 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:39:07 - [SESSION_CHECK] Page: profile.php
+2025-08-31 23:39:07 - [SESSION_CHECK] Session ID: ihe2q3cuoq424n774670ga8k8h
+2025-08-31 23:39:07 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:39:07 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:41:20 - Login success for user: Rovin
+2025-08-31 23:41:23 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:41:23 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:41:23 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:41:23 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:41:23 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:41:25 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:41:25 - [SESSION_CHECK] Page: profile.php
+2025-08-31 23:41:25 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:41:25 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:41:25 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:46:38 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:46:38 - [SESSION_CHECK] Page: profile.php
+2025-08-31 23:46:38 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:46:38 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:46:38 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:46:42 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:46:42 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:46:42 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:46:42 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:46:42 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:46:43 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:46:43 - [SESSION_CHECK] Page: profile.php
+2025-08-31 23:46:43 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:46:43 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:46:43 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:48:00 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:48:00 - [SESSION_CHECK] Page: profile.php
+2025-08-31 23:48:00 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:48:00 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:48:00 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:48:07 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:48:07 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:48:07 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:48:07 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:48:07 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:48:08 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:48:08 - [SESSION_CHECK] Page: profile.php
+2025-08-31 23:48:08 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:48:08 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:48:08 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:48:15 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:48:15 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:48:15 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:48:15 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:48:15 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:50:04 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:50:04 - [SESSION_CHECK] Page: profile.php
+2025-08-31 23:50:04 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:50:04 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:50:04 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:50:06 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:50:06 - [SESSION_CHECK] Page: profile.php
+2025-08-31 23:50:06 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:50:06 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:50:06 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:50:08 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:50:08 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:50:08 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:50:08 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:50:08 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:50:16 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:50:16 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:50:16 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:50:16 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:50:16 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:50:35 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:50:35 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:50:35 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:50:35 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:50:35 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:50:57 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:50:57 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:50:57 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:50:57 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:50:57 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:53:31 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:53:31 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:53:31 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:53:31 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:53:31 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:54:14 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:54:14 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:54:14 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:54:14 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:54:14 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:55:52 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:55:52 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:55:52 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:55:52 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:55:52 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:56:20 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:56:20 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:56:20 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:56:20 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:56:20 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:57:32 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:57:32 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:57:32 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:57:32 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:57:32 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:58:14 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:58:14 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:58:14 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:58:14 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:58:14 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-08-31 23:59:00 - [SESSION_CHECK] --- Running Security Check ---
+2025-08-31 23:59:00 - [SESSION_CHECK] Page: dashboard_user.php
+2025-08-31 23:59:00 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-08-31 23:59:00 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-08-31 23:59:00 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 00:00:00 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 00:00:00 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 00:00:00 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-09-01 00:00:00 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 00:00:00 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 00:00:47 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 00:00:47 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 00:00:47 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-09-01 00:00:47 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 00:00:47 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 00:01:17 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 00:01:17 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 00:01:17 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-09-01 00:01:17 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 00:01:17 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 00:03:01 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 00:03:01 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 00:03:01 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-09-01 00:03:01 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 00:03:01 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 00:03:12 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 00:03:12 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 00:03:12 - [SESSION_CHECK] Session ID: 8dickgu8btt159n8a4qkl1idoh
+2025-09-01 00:03:12 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 00:03:12 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 07:01:06 - Login success for user: Rovin
+2025-09-01 07:04:46 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 07:04:46 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 07:04:46 - [SESSION_CHECK] Session ID: 5l6fscir6kajsmsl7e4teafbk2
+2025-09-01 07:04:46 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 07:04:46 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 07:05:04 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 07:05:04 - [SESSION_CHECK] Page: profile.php
+2025-09-01 07:05:04 - [SESSION_CHECK] Session ID: 5l6fscir6kajsmsl7e4teafbk2
+2025-09-01 07:05:04 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 07:05:04 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 07:05:08 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 07:05:08 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 07:05:08 - [SESSION_CHECK] Session ID: 5l6fscir6kajsmsl7e4teafbk2
+2025-09-01 07:05:08 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 07:05:08 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 07:05:14 - Login success for user: Rovin
+2025-09-01 07:05:19 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 07:05:19 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 07:05:19 - [SESSION_CHECK] Session ID: c84t42u86nd5rdssmdnfbae63q
+2025-09-01 07:05:19 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 07:05:19 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 07:06:05 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 07:06:05 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 07:06:05 - [SESSION_CHECK] Session ID: c84t42u86nd5rdssmdnfbae63q
+2025-09-01 07:06:05 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 07:06:05 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 07:06:37 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 07:06:37 - [SESSION_CHECK] Page: profile.php
+2025-09-01 07:06:37 - [SESSION_CHECK] Session ID: c84t42u86nd5rdssmdnfbae63q
+2025-09-01 07:06:37 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 07:06:37 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 07:06:39 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 07:06:39 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 07:06:39 - [SESSION_CHECK] Session ID: c84t42u86nd5rdssmdnfbae63q
+2025-09-01 07:06:39 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 07:06:39 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 08:42:41 - Login success for user: Rovin
+2025-09-01 08:42:45 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 08:42:45 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 08:42:45 - [SESSION_CHECK] Session ID: gep6097ghb676h5m6apehfiqdk
+2025-09-01 08:42:45 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 08:42:45 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 08:43:21 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 08:43:21 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 08:43:21 - [SESSION_CHECK] Session ID: gep6097ghb676h5m6apehfiqdk
+2025-09-01 08:43:21 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 08:43:21 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 08:43:38 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 08:43:38 - [SESSION_CHECK] Page: profile.php
+2025-09-01 08:43:38 - [SESSION_CHECK] Session ID: gep6097ghb676h5m6apehfiqdk
+2025-09-01 08:43:38 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 08:43:38 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 08:43:41 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 08:43:41 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 08:43:41 - [SESSION_CHECK] Session ID: gep6097ghb676h5m6apehfiqdk
+2025-09-01 08:43:41 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 08:43:41 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 08:44:11 - Login success for user: Rovin
+2025-09-01 08:45:41 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 08:45:41 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 08:45:41 - [SESSION_CHECK] Session ID: mglfik6hblqsulu5o18gp9csq7
+2025-09-01 08:45:41 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 08:45:41 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 08:46:18 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 08:46:18 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 08:46:18 - [SESSION_CHECK] Session ID: mglfik6hblqsulu5o18gp9csq7
+2025-09-01 08:46:18 - [SESSION_CHECK] Session Data: {"user_id":2,"username":"Rovin","role":"user","logged_in":true}
+2025-09-01 08:46:18 - [SESSION_CHECK] Authentication check PASSED for user: Rovin
+2025-09-01 09:12:38 - Login success for user: Rovin
+2025-09-01 09:23:47 - Login success for user: sarasa
+2025-09-01 09:24:25 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 09:24:25 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 09:24:25 - [SESSION_CHECK] Session ID: h59p2cvp7f22u572i088455s6m
+2025-09-01 09:24:25 - [SESSION_CHECK] Session Data: {"user_id":7,"username":"sarasa","role":"user","logged_in":true}
+2025-09-01 09:24:25 - [SESSION_CHECK] Authentication check PASSED for user: sarasa
+2025-09-01 09:28:50 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 09:28:50 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 09:28:50 - [SESSION_CHECK] Session ID: h59p2cvp7f22u572i088455s6m
+2025-09-01 09:28:50 - [SESSION_CHECK] Session Data: {"user_id":7,"username":"sarasa","role":"user","logged_in":true}
+2025-09-01 09:28:50 - [SESSION_CHECK] Authentication check PASSED for user: sarasa
+2025-09-01 09:34:58 - [SESSION_CHECK] --- Running Security Check ---
+2025-09-01 09:34:58 - [SESSION_CHECK] Page: dashboard_user.php
+2025-09-01 09:34:58 - [SESSION_CHECK] Session ID: h59p2cvp7f22u572i088455s6m
+2025-09-01 09:34:58 - [SESSION_CHECK] Session Data: {"user_id":7,"username":"sarasa","role":"user","logged_in":true}
+2025-09-01 09:34:58 - [SESSION_CHECK] Authentication check PASSED for user: sarasa
